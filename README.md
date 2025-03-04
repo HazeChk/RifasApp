@@ -107,7 +107,7 @@ Ajustes generales:
 ## 🛠️ Requisitos del Sistema
 
 - Node.js 18 o superior
-- MySQL 8.0 o superior
+- MariaDB 8.0 o superior
 - npm/pnpm/yarn
 
 ## 🛒 Contacto para compra
