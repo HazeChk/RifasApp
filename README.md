@@ -110,8 +110,8 @@ Ajustes generales:
 - MySQL 8.0 o superior
 - npm/pnpm/yarn
 
-## 🛠️ Contacto para compra
+## 🛒 Contacto para compra
 
-Facebook Messenger: https://m.me/yosoyeddw
-Instagram: https://instagram.com/thisiseddw
-Telegram: https://t.me/thisisedd
+- Facebook Messenger: https://m.me/yosoyeddw
+- Instagram: https://instagram.com/thisiseddw
+- Telegram: https://t.me/thisisedd
